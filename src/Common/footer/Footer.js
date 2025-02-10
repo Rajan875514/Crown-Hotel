@@ -55,17 +55,17 @@ const Footer = () => {
               <li>
                 <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Jun 2025</span>
               </li>
               <li>
                 <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Jun 2025</span>
               </li>
               <li>
                 <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Jun 2025</span>
               </li>
             </ul>
           </div>
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <p>© 2022 All Rights Reserved.</p>
+        <p>© 2025 All Rights Reserved.</p>
       </div>
     </>
   )

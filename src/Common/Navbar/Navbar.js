@@ -95,7 +95,7 @@ const Navbar = () => {
               </div>
               <div className='text'>
                 <h4>Call Us</h4>
-                <Link to='/contact'>+011 123 4567</Link>
+                <Link to='/contact'>+8755148795</Link>
               </div>
             </div>
             <div className='box flex_space'>
@@ -104,7 +104,7 @@ const Navbar = () => {
               </div>
               <div className='text'>
                 <h4>Mail Us</h4>
-                <Link to='/contact'>info@exampal.com</Link>
+                <Link to='/contact'>rajanprasad722@gmail.com</Link>
               </div>
             </div>
           </div>
